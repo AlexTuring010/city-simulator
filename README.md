@@ -94,6 +94,7 @@ Same five-person team as [Crowdless](https://github.com/AlexTuring010/crowdless)
 - AI-Hackathon-winning rebuild (private): https://github.com/EXARTeo/Crowdless_App
 - Crowdless project page: https://www.linkedin.com/company/crowdlessapp/
 - AI Hackathon 2026 winners post: https://www.linkedin.com/posts/aihackathon2026-opentrack-innovationecosystem-ugcPost-7436487613802381312
+- Prior year of the same hackathon series (different team, different challenge, didn't win): https://github.com/AlexTuring010/novibet-clone
 
 ## License
 
